@@ -74,11 +74,11 @@
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
         android:layout_weight="1"
         android:gravity="center"
         android:text="All your activity will remain private"
-        android:layout_marginBottom="20dp"
-        />
+        android:textSize="30px" />
 
 
 
@@ -97,7 +97,6 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:clickable="true"
-            android:gravity="right|center_horizontal|fill"
             android:text="REGISTER FREE"
             android:textAlignment="center" />
     </LinearLayout>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Mockup</string>
+    <string name="ActionBarTitle">Login or Register</string>
 </resources>
