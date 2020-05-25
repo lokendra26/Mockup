@@ -80,7 +80,10 @@
         android:text="All your activity will remain private"
         android:textSize="30px" />
 
-
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/dividorline"/>
 
     <LinearLayout
         android:layout_width="match_parent"

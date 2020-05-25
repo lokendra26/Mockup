@@ -6,4 +6,5 @@
     <color name="white">#FFFFFF</color>
     <color name="grey">#f0f0f0</color>
     <color name="buttoncolor">#F76435</color>
+    <color name="dividorline">#A9A9A9</color>
 </resources>
